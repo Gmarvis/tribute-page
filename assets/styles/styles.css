@@ -8,7 +8,7 @@
 body {
   padding-top: 1.3rem;
   padding-bottom: 1.3rem;
-  font-family: poppins,sans-serif;
+  font-family: poppins, sans-serif;
 }
 
 .container {
@@ -47,13 +47,12 @@ img {
 }
 
 .content-section {
-  font-weight: 300;    
+  font-weight: 300;
   align-content: center;
   margin-left: auto;
   margin-right: auto;
 
 }
-
 ul {
   margin-left: 30%;
   margin-right: 30%;
