@@ -1,45 +1,45 @@
-@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Marck+Script&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,500;1,700;1,800;1,900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Marck+Script&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,500;1,700;1,800;1,900&display=swap");
 
 
-* {
+*  {
     margin: 0;
     padding: 0;
 }
 
-body {
+body  {
     padding-top: 1.3rem;
     padding-bottom: 1.3rem;
     font-family: poppins;
 }
 
-.container {
+.container  {
     background-color: #eae8e8;    
 }
 
-.header {
+.header  {
     padding-top: 63px;
     text-align: center;
 }
 
-.header h1 {
+.header h1  {
     margin-bottom: 41px;
 }
 
-.header p {
+.header p  {
     padding-bottom: 22px;
 }
 
-.images-section {
+.images-section  {
     margin: 28px;
     background-color: #fff;
     text-align: center;
 }
 
-.images-section p {
+.images-section p  {
     padding-bottom: 22px;
 }
 
-img {
+img  {
     display: block;
     margin-left: auto;
     margin-bottom: 17px;
@@ -47,34 +47,34 @@ img {
     width: 80%;
 
 }
-.content-section {
+.content-section  {
     font-weight: 300;    
     align-content: center;
     margin-left: auto;
     margin-right: auto;
 }
-ul {
+ul  {
     margin-left: 30%;
     margin-right: 30%;
     margin-bottom: 50px;
 }
 
-ul li {
+ul li  {
     padding-bottom: 32px;
 }
 
-h2 {
+h2  {
     text-align: center;
     margin: 61px 61px;
 }
 
 
-.p2 {
+.p2  {
     font-style: italic;
     padding-bottom: 27px;
 }
 
-.last-paragraph {
+.last-paragraph  {
     text-align: center;
     align-items: center;
     justify-content: center;
@@ -82,16 +82,15 @@ h2 {
     font-weight: bold;
 }
 
-@media screen and (max-width: 770px) {
-img {
+@media screen and (max-width: 770px)  {
+img  {
     width: 100%;
 }
 
-ul {
+ul  {
     max-width: 550px;
     margin: 0 auto 50px auto;
     text-align: left;
     line-height: 1.6
 }
-
 }
