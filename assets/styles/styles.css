@@ -80,17 +80,15 @@ h2 {
   font-weight: bold;
 }
 
-@media screen and (max-width)  
-
 @media screen and (max-width: 770px) {
   img {
     width: 100%;
-    }
+  }
 
   ul {
     max-width: 550px;
-    margin: 0 auto 50px auto;
+    margin: 0 auto 50px;
     text-align: left;
     line-height: 1.6;
-    }
+  }
 }
