@@ -84,13 +84,13 @@ h2 {
 
 @media screen and (max-width: 770px) {
   img {
-  width: 100%;
-  }
+    width: 100%;
+    }
 
-ul {
-  max-width: 550px;
-  margin: 0 auto 50px auto;
-  text-align: left;
-  line-height: 1.6
-}
+  ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+    }
 }
